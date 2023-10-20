@@ -3,12 +3,12 @@
 }
 
 .btn {
-	padding: 1rem 0.8rem;
-	font-size: 20px;
+	padding: 0.2rem 0.5rem;
+	font-size: 8px;
 	text-align: center;
 	border: 0;
 	outline: none;
-	border-radius: 10px;
+	border-radius: 5px;
 	width: 120px;
 	box-shadow: 1px -3px 52px -5px rgba(0, 0, 0, 0.77);
 	cursor: pointer;
