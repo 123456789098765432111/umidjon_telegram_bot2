@@ -1,5 +1,8 @@
-import {img1,img2,img3} from "./домашний"
-import {img4,img5} from "./effko food"
+import img1 from "./домашний/img1.png"
+import img2 from "./домашний/img2.png"
+import img3 from "./домашний/img3.png"
+import img4 from "./effko food/img4.png"
+import img5 from "./effko food/img5.png"
 export function getData() {
 	return [
 		{
