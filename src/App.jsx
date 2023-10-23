@@ -57,7 +57,7 @@ const App = () => {
 
 		if (queryID) {
 			fetch(
-				'https://umidjontelegrambot-7e7ff48d1e5b.herokuapp.com/',
+				'https://umidjontelegrambot-7e7ff48d1e5b.herokuapp.com/web-data',
 				{
 					method: 'POST',
 					headers: {
